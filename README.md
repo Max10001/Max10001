@@ -4,4 +4,4 @@
 <img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=PostgreSQL&logoColor=black"/>
 <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MySQL&logoColor=black"/>
-<img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=MySQL&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-white?style=for-the-badge&logo=FastAPI&logoColor=black"/>
